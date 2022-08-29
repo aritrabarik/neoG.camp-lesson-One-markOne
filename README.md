@@ -1,6 +1,6 @@
 # "Do you know me?" CLI Quiz App
 
-- This app is made using [Replit](https://replit.com) and [NodeJS](https://nodejs.org).
+- This app was made using [Replit](https://replit.com) and [NodeJS](https://nodejs.org).
 
 - I have also used the [readline-sync](https://www.npmjs.com/package/readline-sync) NPM Package.
 
@@ -14,8 +14,6 @@
   - arrays
   - objects
   ```
-
-<br>
 
 ### [Click here to play the game!](https://replit.com/@iGN1T0R/neoGcamp-levelZero-markOne#index.js?embed=1&output=1)
 
