@@ -19,4 +19,4 @@
 
 <br>
 
-> Made with 💙 [Aritra](https://github.com/aritrabarik)
+> Made with 💙 by [Aritra](https://twitter.com/BarikAritra)
